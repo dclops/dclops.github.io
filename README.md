@@ -1,12 +1,11 @@
 ## Welcome to dclops
 
-You can use the [editor on GitHub](https://github.com/dclops/dclops.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can get the operational documents related to Azure and AWS Devops and Cloud Administration here..
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Devops
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Devops documents the devops procedures on Azure and AWS
 
 ```markdown
 Syntax highlighted code block
