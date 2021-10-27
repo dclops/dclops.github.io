@@ -13,4 +13,4 @@ Updating soon...
 
 ### Support or Contact
 
-for Support or Contact : ``` trydlcops@gmail.com ```
+for Support or Contact : ``` trydclops@gmail.com ```
